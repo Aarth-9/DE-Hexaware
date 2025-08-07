@@ -1,0 +1,1 @@
+this is a text file i created to check the pyspark "txt_file = spark.read.text("example.txt")" command...!
